@@ -27,10 +27,10 @@
   "dependencies": {
     "express": "^4.17.1",
     "if-env": "^1.0.4",
-    "mongoose": "^5.9.27",
-    "nodemon": "^2.0.4"
+    "mongoose": "^5.9.27"
   },
   "devDependencies": {
-    "concurrently": "^5.2.0"
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.4"
   }
 }
